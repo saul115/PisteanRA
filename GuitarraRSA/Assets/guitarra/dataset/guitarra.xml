@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="guitarra" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="guitarras_assembly" assemblyId="1f22f4088dfc4d8c931963394cf2259b">
+<Part name="guitarra" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0002" translation="-0.506192 6.20229 12.326" rotation="AD: 1 5.101134852511493e-16 -4.9836722828289e-17 191.16" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.436402 3.1831 10.5114" rotation="AD: 1 5.029275031392025e-16 -1.626016167793626e-17 183.704" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="-0.819508 11.5228 5.34919" rotation="AD: 1 5.11562157057939e-16 2.9047643840051915e-17 173.5" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.961722 4.79955 2.93539" rotation="AD: -1.541467843118758e-16 1.0122984123628551 6.434841263556551 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="-1.21917 5.39994 4.53143" rotation="AD: 0.9992912924473168 0.05330938498502739 0.9992912924473167 175.682" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
